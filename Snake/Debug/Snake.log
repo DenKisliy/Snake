@@ -1,0 +1,18 @@
+﻿  Direction.cpp
+  Fruit.cpp
+  Interface.cpp
+f:\с++\snake\snake\interface.cpp(64): warning C4018: <: несоответствие типов со знаком и без знака
+  Snake.cpp
+  main.cpp
+f:\с++\snake\snake\main.cpp(17): error C2236: непредвиденный токен "struct". Возможно, отсутствует ";".
+f:\с++\snake\snake\main.cpp(17): error C2332: struct: отсутствует имя тега
+f:\с++\snake\snake\main.cpp(17): warning C4091: : пропускается слева от "", когда ни одна переменная не объявлена
+f:\с++\snake\snake\main.cpp(25): error C2332: struct: отсутствует имя тега
+f:\с++\snake\snake\main.cpp(25): error C2059: синтаксическая ошибка: .
+f:\с++\snake\snake\main.cpp(29): error C2332: struct: отсутствует имя тега
+f:\с++\snake\snake\main.cpp(29): error C2059: синтаксическая ошибка: .
+f:\с++\snake\snake\main.cpp(33): error C2332: struct: отсутствует имя тега
+f:\с++\snake\snake\main.cpp(33): error C2059: синтаксическая ошибка: .
+f:\с++\snake\snake\main.cpp(37): error C2332: struct: отсутствует имя тега
+f:\с++\snake\snake\main.cpp(37): error C2059: синтаксическая ошибка: .
+  Создание кода...
